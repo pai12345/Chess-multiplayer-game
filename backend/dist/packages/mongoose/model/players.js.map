@@ -1,1 +1,0 @@
-{"version":3,"file":"players.js","sourceRoot":"","sources":["../../../../src/packages/mongoose/model/players.ts"],"names":[],"mappings":";;;;;AAAA,gEAA+C;AAC/C,+DAAuC;AAEvC,MAAM,IAAI,GAAG,iBAAO,CAAC,YAAY,CAAC,MAAM,EAAE,iBAAc,EAAE,CAAC,IAAI,EAAE,MAAM,CAAC,CAAC;AAEzE,MAAM,aAAa,GAAG,GAAG,EAAE;IACzB,OAAO;QACL,IAAI,EAAE,IAAI;KACX,CAAC;AACJ,CAAC,CAAC;AAEF,kBAAe,aAAa,CAAC"}

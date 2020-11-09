@@ -1,5 +1,5 @@
 const MongoDB = {
-  MONGODB_URI: "http://localhost:27017",
+  MONGODB_URI: "mongodb://localhost:27017/chess24",
 };
 
 const generateEnv = () => {

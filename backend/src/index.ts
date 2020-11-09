@@ -3,7 +3,6 @@ import http from "http";
 import socketio from "socket.io";
 import chesslogic from "./packages/logic/class/chesslogic";
 import cors from "cors";
-import { Status } from "./packages/helper/util/helper";
 
 const app = express();
 app.use(cors({ origin: "*" }));

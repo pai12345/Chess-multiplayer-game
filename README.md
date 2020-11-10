@@ -1,4 +1,4 @@
-# Chess24 Tech Challenge
+# Multiplayer Chess with Sockets
 
 ## Summary
 

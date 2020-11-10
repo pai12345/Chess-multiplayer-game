@@ -98,7 +98,7 @@ class JoinRoom extends Component {
               </svg>
             </div>
             <div className="h1 app">
-              Welcome to the chess24 Tech Challenge App
+              Welcome to Chess
             </div>
             <div className="ui-chess24Logo svg hint app"></div>
 

@@ -56,5 +56,3 @@ By default the Production port is 5000. If in case the port is already in use by
 - Start the development server by executing `npm run dev`
 
 By default the Dev port is 3000. If in case the port is already in use by another application, you will automatically get an notification/option to choose the next available port.
-
-#### Thank You

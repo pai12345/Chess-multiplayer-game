@@ -1,4 +1,4 @@
-# Multiplayer Chess with Sockets
+# Multiplayer Chess game with Sockets
 
 ## Summary
 
